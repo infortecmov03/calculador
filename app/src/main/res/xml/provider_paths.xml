@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Permite compartilhar arquivos salvos em getExternalFilesDir -->
+    <external-files-path name="meus_documentos" path="Documents/" />
+    <external-files-path name="arquivos_gerais" path="." />
+</paths>
